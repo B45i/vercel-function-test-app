@@ -33,6 +33,9 @@ body {
 }
 
 .quote-text {
+    font-size: 1.5rem;
+    color: #fff;
+    padding: 1rem;
     margin: auto;
     width: 100%;
     height: 100%;
@@ -40,7 +43,7 @@ body {
     align-items: center;
     justify-content: center;
     /* max-width: 1080px; */
-    background-image: url(https://picsum.photos/1080/1920);
+    /* background-image: url(https://picsum.photos/1080/1920); */
     background-position: center;
     /* background-size: cover; */
     background-repeat: no-repeat;
